@@ -1,7 +1,10 @@
 # Sistema de Pedidos - Pizzaria e Hamburgueria Requintados
 
 ## Autoria
-Natan Carvalho
+Natan Carvalho Vieira
+
+## Disciplina
+Algoritmos e Programação
 
 ## Descrição
 Sistema desenvolvido em Python para gerenciamento de pedidos de uma pizzaria e hamburgueria.
@@ -9,8 +12,8 @@ Sistema desenvolvido em Python para gerenciamento de pedidos de uma pizzaria e h
 ## Funcionalidades
 - Cadastro do cliente
 - Escolha de produtos
-- Cálculo do valor total
-- Aplicação de descontos
+- Cálculo do valor total da compra
+- Aplicação de descontos automáticos
 - Escolha da forma de pagamento
 - Exibição de resumo parcial da compra
 - Exibição de resumo final do pedido
@@ -28,3 +31,13 @@ Sistema desenvolvido em Python para gerenciamento de pedidos de uma pizzaria e h
    - R$ 100,00 ou mais: 10% de desconto.
 7. O cliente escolhe a forma de pagamento.
 8. O sistema exibe um resumo final contendo todos os dados da compra.
+
+## Como Executar
+
+1. Certifique-se de que o Python esteja instalado no computador.
+2. Baixe ou clone este repositório.
+3. Abra o terminal na pasta do projeto.
+4. Execute o programa com o comando:
+
+```bash
+python trabalho.py
